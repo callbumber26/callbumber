@@ -1,4 +1,4 @@
-# SMS Bomber
+# Call Bomber - callbumber.com
 
 > **Disclaimer:** This project is provided for educational and testing purposes only. Do not use it to harass, spam, or inconvenience other people. Use it responsibly and only where you have permission.
 
